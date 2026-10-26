@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello everyone I am Swati Joshi
+### [Data Analyst]
 
-<!--
-**Datafreak26/Datafreak26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio! Here is a curated selection of my best work, categorized into 3 groups
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Exploratory Data Analysis
+* **[Project Name](https://github.com)** - 
+
+### End to End Business Problems
+* **[Project Name](https://github.com)** -
+  
+### Advanced Analysis
+* **[Project Name]( )** - 
+
+---
+
+## Skills
+
+
+## How to Reach Me
+* **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+
